@@ -9,7 +9,7 @@ To install and run Android applications using Android Studio, This project aims 
 
 2.Java Development Kit (JDK) – Required for Android development
 
-3.Android SDK – Included with Android Studio
+3.Android SDK – Included with Android Studio 
 
 4.AVD (Android Virtual Device) or Physical Android Device – For testing apps
 
